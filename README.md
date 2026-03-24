@@ -171,6 +171,7 @@ OUTPUT:
 <img width="597" height="396" alt="Screenshot 2026-03-24 183054" src="https://github.com/user-attachments/assets/6f731aa5-e06c-444a-bf19-e1fe8f322e8a" />
 
 RESULT:
+
 The project demonstrates how programming can be used to address real-world environmental issues.
 It helps create awareness about climate change and encourages users to adopt eco-friendly habits.
 
